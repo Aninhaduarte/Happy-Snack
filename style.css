@@ -1,0 +1,42 @@
+body {
+    text-align:center;
+    background-color: rgba(255, 191, 0, 0.203);
+}
+
+#banner {
+    width: 50%;
+}
+
+.principal{
+    background-color: rgb(230, 213, 176);
+}
+
+h1 {
+    text-align: center;
+    height:50px;
+    border: 50px;
+    padding-top: 10px;
+    margin-left: 50px;
+}
+
+.beneficios {
+  background-color: rgb(238, 187, 110);
+  padding: 20pxs;
+}
+
+.itens {
+    font-size: 25px;
+    font-synthesis: unset;
+    color: rgb(219, 221, 96) (0,255, 187)
+}
+
+.imagembeneficios {
+    width: 50%;
+ }
+
+ ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+ }
